@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Bibhuti Ghosh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+![Image](https://github.com/user-attachments/assets/fcdd0b8a-6c22-455f-af35-2f43b340beae)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghoshbibhuti2004-stack&label=Profile%20views&color=0e75b6&style=flat" alt="ghoshbibhuti2004-stack" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghoshbibhuti2004-stack" alt="ghoshbibhuti2004-stack" /></a> </p>
